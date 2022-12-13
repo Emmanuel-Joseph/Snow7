@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">1ea64fb444211110a86688ad36699480</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-13 14:45:06</sys_created_on>
+        <sys_id>a6a441382fb35110801fe33df699b6da</sys_id>
+        <sys_package display_value="Simple Trip" source="x_616897_simple_tr">2bd345f42fb35110801fe33df699b609</sys_package>
+    </sys_package_dependency_m2m>
+</record_update>

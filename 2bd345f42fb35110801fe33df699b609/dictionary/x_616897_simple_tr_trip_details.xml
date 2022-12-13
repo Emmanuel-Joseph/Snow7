@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="56a441382fb35110801fe33df699b64c" extends="task" label="Trip Details" max_length="40" name="x_616897_simple_tr_trip_details" type="collection"/>
+</database>

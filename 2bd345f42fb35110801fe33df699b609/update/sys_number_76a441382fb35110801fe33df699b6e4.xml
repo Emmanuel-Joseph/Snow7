@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_616897_simple_tr_trip_details">x_616897_simple_tr_trip_details</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>TRI</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-13 14:45:07</sys_created_on>
+        <sys_id>76a441382fb35110801fe33df699b6e4</sys_id>
+        <sys_name>TRI</sys_name>
+        <sys_package display_value="Simple Trip" source="x_616897_simple_tr">2bd345f42fb35110801fe33df699b609</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Simple Trip">2bd345f42fb35110801fe33df699b609</sys_scope>
+        <sys_update_name>sys_number_76a441382fb35110801fe33df699b6e4</sys_update_name>
+    </sys_number>
+</record_update>
