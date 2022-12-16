@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="return_date" label="Return Date" language="en" table="x_616897_simple_tr_trip_details">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>return_date</element>
+            <help/>
+            <hint/>
+            <label>Return Date</label>
+            <language>en</language>
+            <name>x_616897_simple_tr_trip_details</name>
+            <plural>Return Dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-16 02:07:10</sys_created_on>
+            <sys_name>Return Date</sys_name>
+            <sys_package display_value="Simple Trip" source="x_616897_simple_tr">2bd345f42fb35110801fe33df699b609</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Simple Trip">2bd345f42fb35110801fe33df699b609</sys_scope>
+            <sys_update_name>sys_documentation_x_616897_simple_tr_trip_details_return_date_en</sys_update_name>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

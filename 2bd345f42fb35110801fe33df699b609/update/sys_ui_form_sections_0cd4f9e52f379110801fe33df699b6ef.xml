@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="0cd4f9e52f379110801fe33df699b6ef" sys_domain="global" table="x_616897_simple_tr_trip_details" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-16 02:10:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4cd4f9e52f379110801fe33df699b6f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_616897_simple_tr_trip_details" name="x_616897_simple_tr_trip_details" sys_domain="global" view="Default view">0cd4f9e52f379110801fe33df699b6ef</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_616897_simple_tr_trip_details" sys_domain="global" view="Default view">d77b5a952f3b5110801fe33df699b693</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-16 02:10:56</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-16 02:10:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>48d4f9e52f379110801fe33df699b6f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_616897_simple_tr_trip_details" name="x_616897_simple_tr_trip_details" sys_domain="global" view="Default view">0cd4f9e52f379110801fe33df699b6ef</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_616897_simple_tr_trip_details" sys_domain="global" view="Default view">44d4f9e52f379110801fe33df699b64c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-16 02:10:56</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-16 02:11:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5be47de52f379110801fe33df699b698</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_616897_simple_tr_trip_details" name="x_616897_simple_tr_trip_details" sys_domain="global" view="Default view">0cd4f9e52f379110801fe33df699b6ef</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_616897_simple_tr_trip_details" sys_domain="global" view="Default view">4fe47de52f379110801fe33df699b695</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-16 02:11:25</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_616897_simple_tr_trip_details</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-16 02:10:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0cd4f9e52f379110801fe33df699b6ef</sys_id>
+            <sys_name>x_616897_simple_tr_trip_details</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Simple Trip" source="x_616897_simple_tr">2bd345f42fb35110801fe33df699b609</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Simple Trip">2bd345f42fb35110801fe33df699b609</sys_scope>
+            <sys_update_name>sys_ui_form_sections_0cd4f9e52f379110801fe33df699b6ef</sys_update_name>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

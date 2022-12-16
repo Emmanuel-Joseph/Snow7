@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_data_policy2">
+    <sys_data_policy2 action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <apply_import_set>true</apply_import_set>
+        <apply_soap>true</apply_soap>
+        <conditions table="x_616897_simple_tr_trip_details">return=true^EQ<item endquery="false" field="return" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <description/>
+        <enforce_ui>true</enforce_ui>
+        <inherit>false</inherit>
+        <model_id/>
+        <model_table>x_616897_simple_tr_trip_details</model_table>
+        <reverse_if_false>true</reverse_if_false>
+        <short_description>Mandate return date</short_description>
+        <sys_class_name>sys_data_policy2</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-16 02:13:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3f55f1e52f379110801fe33df699b60f</sys_id>
+        <sys_name>Mandate return date</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Simple Trip" source="x_616897_simple_tr">2bd345f42fb35110801fe33df699b609</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Simple Trip">2bd345f42fb35110801fe33df699b609</sys_scope>
+        <sys_update_name>sys_data_policy2_3f55f1e52f379110801fe33df699b60f</sys_update_name>
+    </sys_data_policy2>
+</record_update>

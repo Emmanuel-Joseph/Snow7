@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="56a441382fb35110801fe33df699b64c" extends="task" label="Trip Details" max_length="40" name="x_616897_simple_tr_trip_details" type="collection"/>
+    <element db_object_id="56a441382fb35110801fe33df699b64c" extends="task" label="Trip Details" max_length="40" name="x_616897_simple_tr_trip_details" type="collection">
+        <element label="Arriving to" mandatory="true" max_length="32" name="arriving_to" reference="cmn_location" type="reference"/>
+        <element label="Return" max_length="40" name="return" type="boolean"/>
+        <element label="Return Date" max_length="40" name="return_date" type="glide_date_time"/>
+        <element label="Starting from" mandatory="true" max_length="32" name="starting_from" reference="cmn_location" type="reference"/>
+        <element label="Start date" mandatory="true" max_length="40" name="start_date" type="glide_date_time"/>
+    </element>
 </database>
